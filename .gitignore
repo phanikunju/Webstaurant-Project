@@ -21,6 +21,7 @@
 
 # Ignore following paths
 automation-webstaurant/.settings/*
+automation-webstaurant/target/classes/META-INF/*
 
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
